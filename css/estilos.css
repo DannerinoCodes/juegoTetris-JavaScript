@@ -1,0 +1,23 @@
+
+canvas{
+	display: block;
+	margin:0 auto;
+}
+
+body{
+	background-color: #96a9d1;
+
+}
+div{
+	text-align: center;
+	padding: 2vw;
+	font-family: 'VT323', monospace;
+}
+.titulo{
+	font-size: 2.5em;
+	text-shadow: -1px 0 #f1f2f3, 0 1px #2a3958, 1px 0 #2a3958, 0 -1px #2a3958;
+}
+
+.banner{
+	 opacity: 0%;
+}
